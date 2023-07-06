@@ -3,7 +3,7 @@ The ability to accurately monitor carbon emissions is a critical step in the fig
 The objective of this challenge is to create machine learning or a deep learning model using open-source CO2 emissions data (from Sentinel-5P satellite observations) to predict carbon emissions.
 
 These solutions will enable governments, and other actors to estimate carbon emission levels across Africa, even in places where on-the-ground monitoring is not possible
-
+</br>
 
 ** This was my first attempt at a Machine Learning competition </br>
 ** I will re-do it and learn from people's insights
