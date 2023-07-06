@@ -5,5 +5,5 @@ The objective of this challenge is to create machine learning or a deep learning
 These solutions will enable governments, and other actors to estimate carbon emission levels across Africa, even in places where on-the-ground monitoring is not possible
 
 
-~ This was my first attempt at a Machine Learning competition </br>
-~ I will re-do it and learn from people's insights
+** This was my first attempt at a Machine Learning competition </br>
+** I will re-do it and learn from people's insights
